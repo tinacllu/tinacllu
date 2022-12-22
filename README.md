@@ -36,7 +36,7 @@ Outside of coding, you can find me trying new recipes and attempting to keep my 
  </p>
  
  <h3 align="center">My tech stack is growing... 🌱:</h3>
- <p align="center">Currently, I'm working on further exploring TypeScript and Angular </p>
+ <p align="center">Currently, I'm working on further exploring TypeScript and Node.js </p>
 
 <!-- Tech Stack section: END -->
   
