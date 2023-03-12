@@ -11,9 +11,9 @@
 
 <!-- About section -->
 ---
-I am a Toronto-based front-end developer and a recent graduate from <a href="https://junocollege.com" target="__blank">Juno College of Technology</a>! I love to solve problems to create aesthetic applications with clean and re-useable code.
+I am a Toronto-based front-end developer and I love to solve problems to create aesthetic applications with clean and re-useable code!
 
-As a medical communicatiosn specialist with a strong background in Immunology, I thrive in working collaboratively in intensive, fast-paced, and pressurized environments. With my background in research, I am a professional googler, ready to creatively tackle any problem that comes my way, be it coding, science, or life in general 🤓
+As a medical communications specialist with a strong background in Immunology, I thrive in working collaboratively in intensive, fast-paced, and pressurized environments. With my background in research, I am a professional googler, ready to creatively tackle any problem that comes my way, be it coding, science, or life in general 🤓
 
 Outside of coding, you can find me trying new recipes and attempting to keep my plants alive. Feel free to reach out if you are ever in the mood for cool science facts, want to collab, or just for fun! 💖
 
@@ -36,7 +36,6 @@ Outside of coding, you can find me trying new recipes and attempting to keep my 
  </p>
  
  <h3 align="center">My tech stack is growing... 🌱:</h3>
- <p align="center">Currently, I'm working on further exploring TypeScript and Node.js </p>
 
 <!-- Tech Stack section: END -->
   
